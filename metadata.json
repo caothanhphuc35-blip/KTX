@@ -1,0 +1,6 @@
+{
+  "name": "Ký Túc Xá - Quản Lý & Phân Công Trực Nhật",
+  "description": "Ứng dụng quản lý lịch trực nhật ký túc xá thời gian thực: đăng ký ca trực, xem lịch tháng, đổi mật khẩu và cập nhật tức thì giữa các thành viên.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
